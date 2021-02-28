@@ -5,3 +5,4 @@ ZCZC  W00  30 L03  Setting up Github and Publishing page
 ZCZC  W00  10 L06  Reading Slide os00
 ZCZC  W00  20 L21  Learning and downloading VBox + resources
 ZCZC  W00  30 L99  Read Attack On Titan : Before the fall chapter 14
+ZCZC  W00  20 L21  Installing Vbox and Linux
