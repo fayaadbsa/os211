@@ -9,3 +9,5 @@ ZCZC  W00  20 L21  Installing Vbox and Linux
 ZCZC  W00  30 L21  Setting Up a Debian Guest: export import guest
 ZCZC  W01  30 L10  Setting Up Linux
 ZCZC  W01  180 L10  Doing assignment 1 to 3 (half). so tired but fun :') at 3.47am
+ZCZC  W01  60 L26 WATCHING WANDAVISION EPS 9
+ZCZC  W01  200 L10  Doing Assignment 3 to 6. Updating this mylog. Gettin better.
