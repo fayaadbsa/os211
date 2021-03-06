@@ -11,3 +11,5 @@ ZCZC  W01  30 L10  Setting Up Linux
 ZCZC  W01  180 L10  Doing assignment 1 to 3 (half). so tired but fun :') at 3.47am
 ZCZC  W01  60 L26 WATCHING WANDAVISION EPS 9
 ZCZC  W01  200 L10  Doing Assignment 3 to 6. Updating this mylog. Gettin better.
+ZCZC  W01  30  L09  QnA with asdos in Gmeet
+ZCZC  W01  30  L17  Doing the assignments 7 for top 10 Link (LIST / LINK ?)
