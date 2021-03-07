@@ -14,3 +14,4 @@ ZCZC  W01  200 L10  Doing Assignment 3 to 6. Updating this mylog. Gettin better.
 ZCZC  W01  30  L09  QnA with asdos in Gmeet
 ZCZC  W01  30  L17  Doing the assignments 7 for top 10 Link (LIST / LINK ?)
 ZCZC  W01  10  L05  GSGS and Watching Vi Tutorial
+ZCZC  W01  40  L10  GSGS About assignments 8 and 9
