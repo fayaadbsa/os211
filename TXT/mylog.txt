@@ -17,6 +17,7 @@ ZCZC  W01  10  L05  GSGS and Watching Vi Tutorial
 ZCZC  W01  40  L10  GSGS About assignments 8 and 9
 ZCZC  W01  30  L17  Finishing Assignments 7
 ZCZC  W02  100 L02  Zoom Class
+ZCZC  W02  60  L26  Watching How I Met Your Mother
 ZCZC  W02  50  L05  GSGS about other command in linux
 ZCZC  W02  200 L10  Doing assignment 1 to 6
 ZCZC  W02  50  L17  Doing assignment 7 for finding top 3 ranks form my 10 next closest neighbors
