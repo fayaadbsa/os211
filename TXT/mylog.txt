@@ -23,3 +23,5 @@ ZCZC  W02  200 L10  Doing assignment 1 to 6
 ZCZC  W02  50  L17  Doing assignment 7 for finding top 3 ranks form my 10 next closest neighbors
 ZCZC  W02  60  L04  Set up github pages, styles, and others
 ZCZC  W02  30  L10  Doing the next assignment and finishing
+ZCZC  W02  60  L10  Finishing all assignment
+ZCZC  W02  10  L04  Set up github again for navbar
