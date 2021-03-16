@@ -1,18 +1,20 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC  W00  30 L03  Setting up Github and Publishing page
-ZCZC  W00  10 L06  Reading Slide os00
-ZCZC  W00  20 L21  Learning and downloading VBox + resources
-ZCZC  W00  30 L99  Read Attack On Titan : Before the fall chapter 14
-ZCZC  W00  20 L21  Installing Vbox and Linux
-ZCZC  W00  30 L21  Setting Up a Debian Guest: export import guest
-ZCZC  W01  30 L10  Setting Up Linux
+ZCZC  W00  30  L03  Setting up Github and Publishing page
+ZCZC  W00  10  L06  Reading Slide os00
+ZCZC  W00  20  L21  Learning and downloading VBox + resources
+ZCZC  W00  30  L99  Read Attack On Titan : Before the fall chapter 14
+ZCZC  W00  20  L21  Installing Vbox and Linux
+ZCZC  W00  30  L21  Setting Up a Debian Guest: export import guest
+ZCZC  W01  30  L10  Setting Up Linux
 ZCZC  W01  180 L10  Doing assignment 1 to 3 (half). so tired but fun :') at 3.47am
-ZCZC  W01  60 L26 WATCHING WANDAVISION EPS 9
+ZCZC  W01  60  L26  WATCHING WANDAVISION EPS 9
 ZCZC  W01  200 L10  Doing Assignment 3 to 6. Updating this mylog. Gettin better.
 ZCZC  W01  30  L09  QnA with asdos in Gmeet
 ZCZC  W01  30  L17  Doing the assignments 7 for top 10 Link (LIST / LINK ?)
 ZCZC  W01  10  L05  GSGS and Watching Vi Tutorial
 ZCZC  W01  40  L10  GSGS About assignments 8 and 9
 ZCZC  W01  30  L17  Finishing Assignments 7
+ZCZC  W02  100 L02  Zoom Class
+ZCZC  W02  50  L05  GSGS about other command in linux
