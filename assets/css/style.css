@@ -156,12 +156,18 @@ pre {
   border-radius: 2px;
 }
 
-section, footer{
+section{
   text-shadow: 2px 2px 5px rgb(0 0 0 / 30%);
   background-color: #f86449;
   margin-top:3%;
   padding: 2%;
   border-radius:50px;
+}
+
+footer{
+  text-shadow: 2px 2px 5px rgb(0 0 0 / 30%);
+  margin-top:3%;
+  padding: 2%;
 }
 
 /*
