@@ -2,6 +2,7 @@
 layout: "layout"
 ---
 
-### Hello!
+### What Up!
 
-### This is {{ site.title }} and I am {{ site.author }}, {{ site.address }}.
+### This is {{ site.title }}
+### I am {{ site.author }}, from te.address }}.
