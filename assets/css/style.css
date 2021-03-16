@@ -116,7 +116,7 @@
 
 .navbar {
   margin:auto;
-  width:70%;
+  width:90%;
   margin-top:1%;
   background-color: #f86449;
   color:            #FFFFFF;
@@ -168,7 +168,7 @@ section{
   margin-top:3%;
   padding: 2%;
   padding-left:8%;
-  padding-right:10%;
+  padding-right:8%;
   border-radius:50px;
   font-size: 1.2em;
 }
