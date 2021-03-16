@@ -9,7 +9,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 urlweb:           "https://fayaadbsa.github.io/os211/"
-urlcontact:       "TBS"
 urlgithub:        "https://github.com/fayaadbsa/os211/"
 urlghpage:        "https://fayaadbsa.github.io/os211/"
 keywords:         "jekyll, testing"
