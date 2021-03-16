@@ -5,14 +5,14 @@ description: >-
   This Is How Me Do It!
 google_analytics: ""
 author:           "Fayaad"
-address:          "Indonesia"
+address:          "Jakarta"
 sitemap:          "true"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 urlweb:           "https://fayaadbsa.github.io/os211/"
 urlcontact:       "TBS"
-urlgithub:        "https://fayaadbsa.com/cbkadal/os211/"
+urlgithub:        "https://github.com/fayaadbsa/os211/"
 urlghpage:        "https://fayaadbsa.github.io/os211/"
 keywords:         "jekyll, testing"
 github:           [metadata]
