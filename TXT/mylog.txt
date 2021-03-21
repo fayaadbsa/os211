@@ -32,4 +32,4 @@ ZCZC  W03  50  L07  Training Demos Week02
 ZCZC  W03  30  L06  Reading Slides OSC10
 ZCZC  W03  30  L07  Training Demos for Week 03
 ZCZC  W03  20  L14  Reviewing top 3 neighbors for ranks
-
+ZCZC  W03  60  L10  Doing Assigments 7 to 9
