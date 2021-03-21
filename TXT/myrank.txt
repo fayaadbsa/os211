@@ -2,3 +2,7 @@
 ZCZC W01 frsardhf
 ZCZC W01 fxdros
 ZCZC W01 galacticor
+ZCZC W02 frsardhf
+ZCZC W02 frz1110
+ZCZC W02 fredypasaud
+
