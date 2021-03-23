@@ -33,3 +33,9 @@ ZCZC  W03  30  L06  Reading Slides OSC10
 ZCZC  W03  30  L07  Training Demos for Week 03
 ZCZC  W03  20  L14  Reviewing top 3 neighbors for ranks
 ZCZC  W03  60  L10  Doing Assigments 7 to 9
+ZCZC  W03  50  L25  Learning C lang in sololearn
+ZCZC  W03  30  L05  GSGS for doing Pop Quiz03
+ZCZC  W03  40  L26  Watching HIMYM again..
+ZCZC  W03  90  L15  Making the Top 10 Site list for Week 03
+
+ 
