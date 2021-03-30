@@ -37,5 +37,13 @@ ZCZC  W03  50  L25  Learning C lang in sololearn
 ZCZC  W03  30  L05  GSGS for doing Pop Quiz03
 ZCZC  W03  40  L26  Watching HIMYM again..
 ZCZC  W03  90  L15  Making the Top 10 Site list for Week 03
+ZCZC  W04  100 L02  Zoom Class
+ZCZC  W04  50  L06  Reading slides OSC10 Chapter 9
+ZCZC  W04  30  L26  Watching AOT Final Season Final Episode, sad.
+ZCZC  W04  60  L07  Training Demos for Week 04
+ZCZC  W04  40  L25  Continuing Learning C at sololearn
+ZCZC  W04  30  L05  GSGS About C for demos week04
+ZCZC  W04  40  L13  Reviewing top 3 neighbor
+
 
  
