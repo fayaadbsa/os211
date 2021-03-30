@@ -46,5 +46,5 @@ ZCZC  W04  30  L05  GSGS About C for demos week04
 ZCZC  W04  40  L13  Reviewing top 3 neighbor
 ZCZC  W04  40  L14  Searching and Listing the top 10 Links for W04
 ZCZC  W04  90  L10  Doing assignment 6 to 8
-
+ZCZC  W04  60  L14  Finishing top 10 links
  
