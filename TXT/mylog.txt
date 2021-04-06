@@ -47,4 +47,12 @@ ZCZC  W04  40  L13  Reviewing top 3 neighbor
 ZCZC  W04  40  L14  Searching and Listing the top 10 Links for W04
 ZCZC  W04  90  L10  Doing assignment 6 to 8
 ZCZC  W04  60  L14  Finishing top 10 links
+ZCZC  W05  100 L02  Zoom Class
+ZCZC  W05  45  L06  Reading slides OSC10 Chapter 
+ZCZC  W05  30  L05  GSGS About Virtual Memory
+ZCZC  W05  60  L26  Watching How I Met Your Mother S4
+ZCZC  W05  70  L13  Making the Top 10 links (half)
+ZCZC  W05  30  L07  Doing Demo Week 05
+ZCZC  W05  40  L12  Reviewing top 3 neighbor for week04
+ZCZC  W05  80  L14  Doing Week05 Task
  
