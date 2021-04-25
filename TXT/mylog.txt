@@ -56,10 +56,11 @@ ZCZC  W05  30  L07  Doing Demo Week 05
 ZCZC  W05  40  L12  Reviewing top 3 neighbor for week04
 ZCZC  W05  100  L14  Doing Week05 Task
 ZCZC  W05  50  L13  Finishing the Top 10 links
+ZCZC  W06  100 L02  Zoom Class
 ZCZC  W06  120 L06  Reading slides OSC10 Chapter 3 & 4
 ZCZC  W06  50  L12  Reviewing top 3 neighbor for week05
 ZCZC  W06  60  L13  Making the Top 10 links (half)
 ZCZC  W06  120 L26  Watch Pirates of the Caribbean
 ZCZC  W06  100 L14  Doing assignment 4
-ZCZC  W06  100 L02  Zoom Class
-
+ZCZC  W06  120 L10  Finishing all assignments
+ZCZC  W06  120 L26  Watch HIMYM Last Episode of Season 4
