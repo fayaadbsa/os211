@@ -72,5 +72,6 @@ ZCZC  W07  70  L12  Reviewing top 3 neighbor from week06
 ZCZC  W07  50  L13  Finding resources and GSGS for the Top 10 links
 ZCZC  W07  90  L07  Doing Demo Week 06, 07, 08 on vscode
 ZCZC  W07  100 L14  Doing Assignments 4
-
+ZCZC  W07  40  L10  Finishing All Assignments
+ZCZC  W07  20  L13  Finishing TOP 10 LINKS
 
