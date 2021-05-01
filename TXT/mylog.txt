@@ -63,4 +63,8 @@ ZCZC  W06  60  L13  Making the Top 10 links (half)
 ZCZC  W06  120 L26  Watch Pirates of the Caribbean
 ZCZC  W06  100 L14  Doing assignment 4
 ZCZC  W06  120 L10  Finishing all assignments
-ZCZC  W06  60 L26  Watch HIMYM Last Episode of Season 4
+ZCZC  W06  60  L26  Watch HIMYM Last Episode of Season 4
+ZCZC  W07  100 L02  Zoom Class
+ZCZC  W07  90  L06  Reading slides OSC10 Chapter 6, 7
+ZCZC  W07  50  L06  Reading slides OSC10 Chapter 8
+ZCZC  W07  100 L26  Watching HIMYM again Season 5
