@@ -78,4 +78,7 @@ ZCZC  W08  50  L06  Reading slides OSC10 Chapter 5
 ZCZC  W08  40  L10  Reviewing Last Week Top 3 Neighbors
 ZCZC  W08  70  L10  Making the Top 10 links (halfway)
 ZCZC  W08  170 L26  Watch Interstellar @_@
+ZCZC  W08  180 L13  Doing LFS T_T
+ZCZC  W08  30 L21  Configuring Shared Folder VBOX
+
 
