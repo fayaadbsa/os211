@@ -74,4 +74,8 @@ ZCZC  W07  90  L07  Doing Demo Week 06, 07, 08 on vscode
 ZCZC  W07  100 L14  Doing Assignments 4
 ZCZC  W07  40  L10  Finishing All Assignments
 ZCZC  W07  40  L13  Finishing TOP 10 LINKS
+ZCZC  W08  50  L06  Reading slides OSC10 Chapter 5
+ZCZC  W08  40  L10  Reviewing Last Week Top 3 Neighbors
+ZCZC  W08  70  L10  Making the Top 10 links (halfway)
+ZCZC  W08  170 L26  Watch Interstellar @_@
 
