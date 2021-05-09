@@ -81,4 +81,5 @@ ZCZC  W08  170 L26  Watch Interstellar @_@
 ZCZC  W08  180 L13  Doing LFS T_T
 ZCZC  W08  30  L21  Configuring Shared Folder VBOX
 ZCZC  W08  40  L10  Doing Assignments 4-6
+ZCZC  W08  60  L10  Finishing the Top 10 links
 
