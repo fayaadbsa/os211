@@ -82,4 +82,9 @@ ZCZC  W08  180 L13  Doing LFS T_T
 ZCZC  W08  30  L21  Configuring Shared Folder VBOX
 ZCZC  W08  40  L10  Doing Assignments 4-6
 ZCZC  W08  60  L10  Finishing the Top 10 links
+ZCZC  W09  70  L06  Reading slides OSC10 Chapter 11
+ZCZC  W09  30  L12  Reviewing Last Week Top 3 Neighbors
+ZCZC  W09  40  L26  Watching HIMYM again Season 6 omg
+ZCZC  W09  80  L13  Menyicil top 10 links
+
 
