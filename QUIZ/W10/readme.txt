@@ -1,0 +1,1 @@
+untuk kuis w10
