@@ -92,4 +92,4 @@ ZCZC  W10  60  L06  Reading slides OSC10 Chapter 12
 ZCZC  W10  40  L12  Reviewing Last Week Top 3 Neighbors
 ZCZC  W10  20  L26  Watching HIMYM Season 7 wow
 ZCZC  W10  15  L10  Making tips for the next class os212
-
+ZCZC  W10  240 L10  Doing LFS part 8 (halfway)
