@@ -93,3 +93,5 @@ ZCZC  W10  40  L12  Reviewing Last Week Top 3 Neighbors
 ZCZC  W10  20  L26  Watching HIMYM Season 7 wow
 ZCZC  W10  15  L10  Making tips for the next class os212
 ZCZC  W10  240 L10  Doing LFS part 8 (halfway)
+ZCZC  W10  120 L10  FINISHING LFS part 8
+ZCZC  W10  10  L22  Listening to Lofi.. last log.. bye :")
